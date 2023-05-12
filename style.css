@@ -36,7 +36,7 @@ main{
 
 .message{
     background: white;
-    background-image: url("/images/dummy.png");
+    background-image: url("./images/dummy.png");
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
